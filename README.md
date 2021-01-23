@@ -31,4 +31,4 @@ stuff go here
 |Bonnie Liu | Member | [@bonnieliu2002](https://github.com/bonnieliu2002) |
 |Isha Shah | Member | [@ishashah146](https://github.com/ishashah146) |
 |Polina Pranovich | Member | [@polinapra](https://github.com/polinapra) |
-|Danielle Goldwirth | Member | [@]() |
+|Danielle Goldwirth | Member | [@danigold1020](https://github.com/danigold1020) |
