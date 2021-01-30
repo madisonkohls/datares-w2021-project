@@ -8,7 +8,7 @@ The purpose of this project is to stuff
 * Python
 * Stuff
 
-## Getting Starte
+## Getting Started
 
 1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here]() within this repo.  
