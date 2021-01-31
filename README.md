@@ -2,11 +2,10 @@
 This project is a part of the [Data Blog](https://datares.github.io/#/datablog) at [DataResolutions](https://datares.github.io/#/).  The article published on this project, along with other articles from Data Blog, can be found on [Medium](https://medium.com/@ucladatares).
 
 ## Project Motivation/Description
-The purpose of this project is to stuff
+The purpose of this project is to explore trends among over 40,000 feature films released on or before July 2017. Our team specifically wanted to use this metainformation on movies to find possible correlations between budget, revenue, production company, and rating, as well as explore trends in genres, keywords, and production countries.
 
 ### Technologies Used
-* Python
-* Stuff
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Getting Started
 
@@ -15,13 +14,15 @@ The purpose of this project is to stuff
 3. Data processing/visualization scripts are being kept [here]()
 
 ## Data 
-stuff go here
+Our dataset is [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) from Kaggle. It has over 45,000 entries of metainformation on Movies released before and on July 2017.
 
-## Data Processing
-stuff go here
+## Data Cleaning
+For the data cleaning process, the only csv file that had missing/nonsensical values was the movies_metadata.csv file. To clean the data, we first removed all films that did not have a title and then also removed all film that had a runtime of less than 40 minutes (for the purpose of our EDA we wanted to look at movies that followed the [definiton of being a feature film](https://en.wikipedia.org/wiki/Feature_film)). The notebook where we cleaned the the data can be found (here)[].
 
 ## Data Analysis
-stuff go here
+For our data analysis, we looked into a few key questions:
+### 1) What are some keywords in various genres?
+The notebook can be found (here)[].
 
 ## Contributing DataRes Members
 
