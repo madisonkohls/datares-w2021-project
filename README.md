@@ -21,17 +21,17 @@ For the data cleaning process, the only csv file that had missing/nonsensical va
 
 ## Data Analysis
 For our data analysis, we looked at various sections of our data to postulate some questions:
-### 1) (Location/Language)[]
+### 1) [Location/Language]()
 Where were the movies in the dataset produced?
 What languages were the movies filmed in?
-### 2) (Production Companies)[]
+### 2) [Production Companies]()
 Add stuff here... 
-### 3) (Revenue/Budget)[]
+### 3) [Revenue/Budget]()
 Add stuff here... 
-### 4) (Genres)[]
+### 4) [Genres]()
 What are the top keywords in some more notable genres?
 What are the top keywords in movies overall?
-### 5) (Cast/Crew)[]
+### 5) [Cast/Crew]()
 Add stuff here... 
 
 ## Contributing DataRes Members
