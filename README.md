@@ -27,7 +27,11 @@ What languages were the movies filmed in?
 ### 2) Production Companies
 Add stuff here... 
 ### 3) Revenue/Budget
-Add stuff here... 
+What is the average revenue to budget ratio?
+
+Does having a larger budget lead to more revenue?
+
+Does having a larger budget lead to higher movie ratings?
 ### 4) Genres
 What are the top keywords in some more notable genres?
 
