@@ -25,7 +25,11 @@ Where were the movies in the dataset produced?
 
 What languages were the movies filmed in?
 ### 2) Movie Evolution
-Add stuff here... 
+How have the budgets and revenues of movies changed over time?
+
+What languages were movies first released in, and how have these languages changed over time?
+
+How have the ratings and runtimes of movies changed over time?
 ### 3) Revenue/Budget
 What is the average revenue to budget ratio?
 
