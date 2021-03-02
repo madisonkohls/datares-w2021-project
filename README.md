@@ -37,11 +37,15 @@ Does having a larger budget lead to more revenue?
 
 Does having a larger budget lead to higher movie ratings?
 ### 4) Genres
+What is the distributions of genres for movies?
+
 What are the top keywords in some more notable genres?
 
 What are the top keywords in movies overall?
 ### 5) Cast/Crew
-Add stuff here... 
+What is the proportion of males to females in movie casts?
+
+What is the proportion of males to females in movie crews?
 
 ## Contributing DataRes Members :dancing_women:
 
