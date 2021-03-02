@@ -9,14 +9,15 @@ The purpose of this project is to explore trends from over 40,000 feature films 
 
 ## Getting Started :bulb:
 1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here]() within this repo.  
-3. Data processing/visualization scripts are being kept [here]()
+2. Datasets can be found in the Datasets folder
+3. Data processing can be found in the Notebooks folder
+4. Data visuals can be found in the Visuals folder
 
 ## Data :page_with_curl:
 Our dataset is [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) from Kaggle. It has over 45,000 entries of metainformation on Movies released before and on July 2017.
 
 ## Data Cleaning :broom:
-For the data cleaning process, the only csv file that had missing/nonsensical values was the movies_metadata.csv file. To clean the data, we first removed all films that did not have a title and then also removed all film that had a runtime of less than 40 minutes (for the purpose of our EDA we wanted to look at movies that followed the [definiton of being a feature film](https://en.wikipedia.org/wiki/Feature_film)). The notebook where we cleaned the the data can be found (here)[].
+For the data cleaning process, the only csv file that had missing/nonsensical values was the movies_metadata.csv file. To clean the data, we first removed all films that did not have a title and then also removed all film that had a runtime of less than 40 minutes (for the purpose of our EDA we wanted to look at movies that followed the [definiton of being a feature film](https://en.wikipedia.org/wiki/Feature_film)).
 
 ## Data Analysis 	:movie_camera:
 For our data analysis, we looked at various sections of our data to postulate some questions:
