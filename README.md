@@ -6,6 +6,8 @@ The purpose of this project is to explore trends from over 40,000 feature films 
 
 ### Technologies Used :floppy_disk:
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly.Express)
+* Tableau
+* Figma
 
 ## Getting Started :bulb:
 1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
